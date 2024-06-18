@@ -10,15 +10,15 @@
     <link rel="stylesheet" href="./styles/main.css">
 </head>
 
+
 <menu>
     <div class="menu-izquierda">
         <a href="./index.php">
-        <img src="./images/menu.png" alt="">
+        <img src="./images/logo.jpeg" alt="">
 </a>
-        <img src="./images/menu.png" alt="">
-        <p class="texto-menu-izquierda">
-            Mariposa
-        </p>
-
+    </div>
+    <div class = menu-derecha>
+        <a class = "enlaces-menu-derecha" href="https://google.com">Primer Ingreso</a>
+        <a class = "enlaces-menu-derecha" href="https://google.com">Aula en Línea</a>
     </div>
 </menu>
