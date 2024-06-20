@@ -23,7 +23,9 @@
             <a class = "enlaces-menu-derecha" href="https://google.com">Aula en Línea</a>
         </div>
         <div class="hamburguer-icon">
-            
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
     </div>
 </menu>
