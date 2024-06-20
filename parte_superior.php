@@ -14,11 +14,16 @@
 <menu>
     <div class="menu-izquierda">
         <a href="./index.php">
-        <img src="./images/logo.jpeg" alt="">
-</a>
+          <img src="./images/logo.jpeg" alt="">
+        </a>
     </div>
-    <div class = menu-derecha>
-        <a class = "enlaces-menu-derecha" href="https://google.com">Primer Ingreso</a>
-        <a class = "enlaces-menu-derecha" href="https://google.com">Aula en Línea</a>
+    <div class="menu-container">
+        <div class = menu-derecha>
+            <a class = "enlaces-menu-derecha" href="https://google.com">Primer Ingreso</a>
+            <a class = "enlaces-menu-derecha" href="https://google.com">Aula en Línea</a>
+        </div>
+        <div class="hamburguer-icon">
+            
+        </div>
     </div>
 </menu>
