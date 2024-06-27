@@ -8,6 +8,8 @@
     <div class="main-img">
     <img src="./images/clases.png" alt="">
     </div>
+    <div class="main-accordion-container">
+    </div>
 </body>
 
 <?php require_once "./parte_inferior.php"?>
