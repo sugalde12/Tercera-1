@@ -1,18 +1,23 @@
-<?php require_once "./parte_superior.php"?>
+<?php require_once "./parte_superior.php" ?>
 
 <div class="titulo">
-<p>Estudiar una carrera universitaria es un privilegio de pocos, ¿qué estás esperando?</p>
+    <p>Estudiar una carrera universitaria es un privilegio de pocos, ¿qué estás esperando?</p>
 </div>
 
 <body>
     <div class="main-img">
-    <img src="./images/clases.png" alt="">
+        <img src="./images/clases.png" alt="">
     </div>
     <div class="main-accordion-container">
     </div>
-    <div class="card-list">
+    <div class="mid-info">
+        <p class="mid-info-title">Oferta Académica</p>
+        <p class="mid-info-desc">Decídete y escoge, que quieres estudiar</p>
     </div>
-    
+    <div class="card-list">
+
+    </div>
+
 </body>
 
-<?php require_once "./parte_inferior.php"?>
+<?php require_once "./parte_inferior.php" ?>
